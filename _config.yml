@@ -22,7 +22,7 @@ title: Pranav Gupta Blog
 email: pranavgupta2603@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This will be my brain when I am gone.
-baseurl: "/pranav-blog/" # the subpath of your site, e.g. /blog
+baseurl: "/pranav-blog" # the subpath of your site, e.g. /blog
 url: "https://pranavgupta2603.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pranavgupta2603
 github_username:  pranavgupta2603
