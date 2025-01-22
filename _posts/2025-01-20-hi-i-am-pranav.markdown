@@ -31,19 +31,37 @@ All in all, if you have a solid resume and you've made some incredible memories 
 
 ---
 
-**High GPA.** If a person tells you to "chill" in your first year of college then `stay away` from them. I made sure during my first year of college I am going to explore new areas of AI but unlike my school days, I had the thirst to be consistent with my grades. In my first year I made the habit of doing *neat* hard work. Whatever I presented, memorized, learned and understood, I did it with absolute integrity. People brought in chits and phones during the exams like done in most indian colleges but I made sure my preparation would beat whatever new way of cheating they invent.
+**General College Life.** 
+
+**High GPA.** If a person tells you to "chill" in your first year of college then `stay away` from them. I made sure during my first year of college that I will explore new areas of AI but unlike my school days, I had the thirst to be consistent with my grades. In my first year I made the habit of doing *neat* hard work. Whatever I presented, memorized, learned and understood, I did it with absolute integrity. People brought in chits and phones during the exams like done in most indian colleges but I made sure my preparation would beat whatever new way of cheating they would invent.
 
 I made sure I studied for several days before to ace my internal exams (CTs, assignments, vivas, etc). The motivation I had after coming to SRM was built-up energy from feeling like a failure after finishing school.
 
-I would suggest to practice EVERY question in math since most questions in exams come from PYQs themselves. I made sure I understood how to solve each problem. I made friends, just like me - motivated to do well and seeing them study when I was felt free was a big push. I never really paid attention to courses like EVS or Social Engineering because I was mostly focused on my PCM and Computer Science but still made sure I studied enough before their exams so that my grades don't lack. 
+I would suggest to practice EVERY question in math since most questions in exams come from PYQs themselves. I made sure I understood how to solve each problem. I made friends, just like me - motivated to do well and seeing them study when I felt free was a big push. I never really paid attention to courses like EVS or Social Engineering because I was mostly focused on my PCM and Computer Science courses but still made sure I studied enough so that my grades don't lack in these silly courses. 
 
-I know, `classes are so very boring`. There really aren't many interesting professors, at least in my college. Coming from someone who really wants to be the best in computer science, my professors failed me with their ego, lack of interest in teaching, and shortcuts. Classes can become monotonous especially when you're doing subjects you really don't want to learn about (EVS/Social Engineering). You just need to pick up as much as you can from the topics being taught, and push through with droopy, dark circles in your eyes.
+But your GPA should NEVER be below a 9. NEVER. The competition today is like getting crushed in a stampede. A lot of people will have 10 CGPA until the end of their second year. Be it jobs or higher studies, if your GPA is high, you will be preferred in whatever situation your resume is in. Some grad school programs and companies are very GPA-centric. A low GPA will always be your losing factor.
+
+You should never fail to fight with your professors for your grades if they're less or even if they're high. Its just many "please"s and "I will really work hard in the next exam"s that can probably increase your marks if they get fed up listening to you. Try to be alone when doing this when there aren't many student beside you. If your professor is benevolent he might even increase your marks if you verbally explain to him an answer that you got wrong in the exam. 
+
+Honestly, in the end its a bit of luck. Your final exams are going to be checked my a random "professor" who exists to cut your marks on purpose.Just pray to God. If your examiner is benevolent, you'll get the grades you deserve. If not, it sucks (I have been there), you move on and focus on your main purpose of life.
+
+**Classes.** I think I'll start by addressing the cumbersome `75% attendance`. Because of this rule, I have wasted an incredible amount of time going to campus and learning nothing. I'd rather sit in class and work on my own projects than listen or even look towards the blackboard. I am the most productive at home, on my chair with a coffee next to me.
+
+`Classes are so very boring`. There really aren't many interesting professors, at least in my college. Coming from someone who really wanted to be the best in computer science, my professors failed me with their ego, lack of interest and shortcuts in teaching. Classes become monotonous especially when you're doing subjects you really don't want to learn about (EVS/Social Engineering). You just need to pick up as much as you can from the topics being taught, and push through with droopy, dark circles in your eyes. Your best way of studying is either reading the tedious power point presentation with over 200 slides, or going through multiple youtube videos to learn about that topic. They even provide you with these amazing books that you never open :).
+
+I made sure I was in the good books of each teacher. I would sometimes just call them up and tell them that I'm not well and convince them to mark me present for the class. Some even agreed to letting me work on my laptop if I sat at the end of the room.
+
+.
+.
+.
+.
 
 
 
 
 
 
-for later use-----
 ---
 I was constantly in search of new research projects since the start because I just didn't want to waste time. I emailed professors and collaborated on as many projects as I can. Now here's what I faced: the professors in my college really didn't care about the research (sad truth). I wasted a year trying to find a good research project that could lead to a paper in my college. 
+
+- talk about exam reevaluation
