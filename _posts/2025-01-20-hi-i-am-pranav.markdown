@@ -31,7 +31,7 @@ All in all, if you have a solid resume and you've made some incredible memories 
 
 ---
 
-**General College Life.** 
+<h3>General College Life.</h3>
 
 **High GPA.** If a person tells you to "chill" in your first year of college then `stay away` from them. I made sure during my first year of college that I will explore new areas of AI but unlike my school days, I had the thirst to be consistent with my grades. In my first year I made the habit of doing *neat* hard work. Whatever I presented, memorized, learned and understood, I did it with absolute integrity. People brought in chits and phones during the exams like done in most indian colleges but I made sure my preparation would beat whatever new way of cheating they would invent.
 
@@ -66,6 +66,13 @@ Here's some examples of negative help. I got an internship at IISc, the top inst
 
 **Back to college activities.** 
 With over 20,000 students in each batch, students had a diverse range of skills in my college. I loved going to flash mobs, fashion shows, and singing nights in my college. Festivals were celebrated with a lot of joy, from traditional hindu festivals like Diwali and Holi to Christmas and Eid. I even attended celebrations related to Pongal and Onam where I learned a lot about south indian culture and food (nothing beats Delhi food). We also had big tech festivals like Milan and Aarush, and the college would really light up. I have made some incredible memories with my friends during these days. I'd `recommend` to take time off from your busy schedules and really attend such celebrations because you JUST have 4 years and they pass by in a blur.
+
+`April 22nd, 2025`
+
+Updating after 3 months. I got into the MS CSE program at the University of Michigan and I am super excited to start my research journey at one of the top CS institutions in the world.
+
+**Life in general**
+It is honestly a big culture shift when a north Indian student studies in South India. The people and values are different. I don't want to talk much on this but I definitely sensed a lot of resentment towards "my kind" from the locals there. The autos have a weird monopoly and its difficult to negotiate prices if you don't know their language. But I guess it could be the opposite as well (a south indian coming to north india). Restaurants, theatres, etc shut down early. There are a lot of food streets in Chennai however which I liked going to for a nice snack. 
 
 
 
