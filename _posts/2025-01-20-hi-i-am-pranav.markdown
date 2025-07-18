@@ -106,12 +106,18 @@ The simple way out of this is to engage in hackathons. Go on Coursera and learn 
 
 **Connecting with people**. The importance of connections cannot be overstated. Search on Linkedin: SWE Amazon. Go through each person's linkedin profile to see if you can relate to something to write in your text to them. Just click on Connect, please don't send a cringy message to the person WHILE connecting. Once they connect then send a cold text to them. This helps you with referrals.
 
-**Dont lose hope**. Yes, some companies might not even open your profile. Some might reject you by looking at your resume. Some will call you for a coding test/interview and you'll fail that. I repeat: `you're not alone`. It happens, and fortunately the route of getting rejected over and over again WILL end and you'll start getting responses and accepts. You just need to keep trying
+**Dont lose hope**. Yes, some companies might not even open your profile. Some might reject you by looking at your resume. Some will call you for a coding test/interview and you'll fail that. I repeat: `you're not alone`. It happens, and fortunately the route of getting rejected over and over again WILL end and you'll start getting responses and accepts. You just need to keep trying.
 
 <h2> Research Internships </h2>
 
-The process is more or less the same as an industry internship, only the application seems different. You'll have to write a letter of motivation to describe your research interests. Your main source of referrals become professors and their PhD students.
+The GRIND is more or less the same as an industry internship, only the application is different. 
 
+You'll have to write a `letter of motivation/statement of purpose` to describe your research interests. Your main source of referrals become PhD students who'll get you the internship with the professor you're interested to work with. There are a lot of things to keep in mind when finding the right professor to work with:
+ - **Are they consistently publishing papers?**  Easy, go into their google scholar page and sort using year (2025). You'll see how many papers they have published over the year. A professor publishing a lot of papers, means he's got tons of projects, meaning he's looking for students to work with.
+
+ - **Are you really interested in the projects?** Professors generally won't take you as an intern if they realize that you're simply not interested in the research area. The main way that happens is in an interview(you will never be able to avoid an interview). You need to have projects, courses, blogs, etc in the area for them to actually assess your interests.
+
+ - **Professor v/s PhD student**
 
 
 .
