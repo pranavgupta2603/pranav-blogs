@@ -55,7 +55,7 @@ Honestly, in the end its a bit of luck. Your final exams are going to be checked
 
 <b>`Classes.`</b> I think I'll start by addressing the cumbersome `75% attendance`. Because of this rule, I have wasted an incredible amount of time going to campus and learning nothing. I'd rather sit in class and work on my own projects than listen or even look towards the blackboard. I am the most productive at home, on my chair with a coffee next to me.
 
-`Classes are so very boring`. There really aren't many interesting professors, at least in my college. Coming from someone who really wanted to be the best in computer science, my professors failed me with their ego, lack of interest and shortcuts in teaching. Classes become monotonous especially when you're doing subjects you really don't want to learn about (EVS/Social Engineering). You just need to pick up as much as you can from the topics being taught, and push through with droopy, dark circles in your eyes. Your best way of studying is either reading the tedious power point presentation with over 200 slides, or going through multiple youtube videos to learn about that topic. They even provide you with these amazing books that you never open :).
+**Classes are so very boring**. There really aren't many interesting professors, at least in my college. Coming from someone who really wanted to be the best in computer science, my professors failed me with their ego, lack of interest and shortcuts in teaching. Classes become monotonous especially when you're doing subjects you really don't want to learn about (EVS/Social Engineering). You just need to pick up as much as you can from the topics being taught, and push through with droopy, dark circles in your eyes. Your best way of studying is either reading the tedious power point presentation with over 200 slides, or going through multiple youtube videos to learn about that topic. They even provide you with these amazing books that you never open :).
 
 I made sure I was in the good books of each teacher. I would sometimes just call them up and tell them that I'm not well and convince them to mark me present for the class. Some even agreed to letting me work on my laptop if I sat at the end of the room.
 
@@ -63,7 +63,7 @@ I made sure I was in the good books of each teacher. I would sometimes just call
 
 I started off buying notebooks for each class I had in my first year, and by the end of my third year, a single small diary did the job. 
 
-<b>`College Activities.`</b> My college had numerous clubs - from Google and Microsoft's Student Clubs, to one of my college's biggest highlights, Next Tech Lab. I joined another club called Coding Ninjas, but that died in less than a year. Next Tech Lab was known to be the hardest club to join in my college, and I got to know about this from a senior of mine who was the Head AI researcher there. I gave a simple interview discussing my knowledge and passion in AI and got in. I met a lot of people just like me - striving to be the best, to get some insane internships - but only a handful trying to attend grad school after undergraduation.  We all had that self-motivation to code and develop softwares and do AI research and advance the state-of-the-art. But since there were no professors that actually did cutting-edge research, we ourselves were lost just trying to find internships. 
+<b>College Activities.</b> My college had numerous clubs - from Google and Microsoft's Student Clubs, to one of my college's biggest highlights, Next Tech Lab. I joined another club called Coding Ninjas, but that died in less than a year. Next Tech Lab was known to be the hardest club to join in my college, and I got to know about this from a senior of mine who was the Head AI researcher there. I gave a simple interview discussing my knowledge and passion in AI and got in. I met a lot of people just like me - striving to be the best, to get some insane internships - but only a handful trying to attend grad school after undergraduation.  We all had that self-motivation to code and develop softwares and do AI research and advance the state-of-the-art. But since there were no professors that actually did cutting-edge research, we ourselves were lost just trying to find internships. 
 
 <div class="personal-rant" markdown=1>
 
@@ -99,6 +99,11 @@ Here's what you need to change if you're someone who really `wants` to work in a
 
 This does take time. You really shouldn't give up because every problem you solve, you're surpassing a potential job candidate. So even if that takes a `whole day to solve just one problem`, IT'S ALL OKAY.
 
+I found this  <a href="https://www.reddit.com/r/leetcode/comments/1m31ogc/i_analyzed_700_leetcode_users_heres_what_actually/" style="display:inline-block;padding:8px 16px;background:#ff4500;color:#fff;border-radius:6px;text-decoration:none;font-family:sans-serif;font-weight:bold;" target="_blank"
+    >Reddit post</a> which analyses FAANG employees and their Leetcode profiles.
+
+It displays 500 LeetCode problems as the average for landing FAANG offers, but focusing on hard questions is much more effective than spamming mediums and can bring the number of problems you solve down to 150. Prioritize mastering mediums before switching to select hard problems. Don’t get stuck on easy or medium levels—challenge yourself and practice intentionally to maximize results.
+
 **The experience paradox**. This is something that I have seen a lot of people crib about.
 > You need an internship to gain project experience, but you need project experience to get an internship.
 
@@ -115,9 +120,12 @@ The GRIND is more or less the same as an industry internship, only the applicati
 You'll have to write a `letter of motivation/statement of purpose` to describe your research interests. Your main source of referrals become PhD students who'll get you the internship with the professor you're interested to work with. There are a lot of things to keep in mind when finding the right professor to work with:
  - **Are they consistently publishing papers?**  Easy, go into their google scholar page and sort using year (2025). You'll see how many papers they have published over the year. A professor publishing a lot of papers, means he's got tons of projects, meaning he's looking for students to work with.
 
- - **Are you really interested in the projects?** Professors generally won't take you as an intern if they realize that you're simply not interested in the research area. The main way that happens is in an interview(you will never be able to avoid an interview). You need to have projects, courses, blogs, etc in the area for them to actually assess your interests.
+ - **Are you really interested in the projects?** Professors generally won't take you as an intern if they realize that you're simply not interested in the research area. The main way that happens is in an interview (you will never be able to avoid an interview). You need to have projects, courses, blogs, etc in the area for them to actually assess your interests.
 
- - **Professor v/s PhD student**
+ - **How popular is the professor?** The [h-index](https://en.wikipedia.org/wiki/H-index) of a professor can be found through their google scholar page. Professors with high h-indices tend to be busier and have a higher chance of NOT reading your email. Find professors with h-indices of `< 30`. They're actively looking for students and research projects. But then again, landing an internship with a professor with a high h-index (more popular) could benefit your letter of recommendations.
+
+ - **What conferences is the professor targetting?** Again, their google scholar page can help you out with this. I recommend working with professors who aim to target [big conferences](https://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2023&sort=arank&page=1) and [journals](https://portal.core.edu.au/jnl-ranks/?search=&by=all&source=CORE2020&sort=arank&page=1) (A*/A) like NeurIPS, CVPR, ICML, ICLR, etc.
+
 
 
 .

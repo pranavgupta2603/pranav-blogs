@@ -1,3 +1,11 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 300;
+
+}
+
 .personal-rant {
   background-color: #fff3cd;
   border-left: 4px solid #f0ad4e;
