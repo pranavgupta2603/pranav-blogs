@@ -18,3 +18,8 @@ Sometimes in life we need to fail again and again. I felt like a failure during 
 
 Make good friends. Just like the ones who would wait for me - don’t leave a hiker behind. I’m blessed to share this experience with them. And they continue to help me in my life everyday. 
 
+<video controls preload="metadata" style="width: 100%; max-width: 720px; display: block; margin: 1.5rem auto;">
+  <source src="{{ '/assets/videos/IMG_0732.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag. You can view the video
+  <a href="{{ '/assets/videos/IMG_0732.mp4' | relative_url }}">here</a>.
+</video>
